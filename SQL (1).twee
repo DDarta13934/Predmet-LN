@@ -1,0 +1,274 @@
+:: StoryTitle
+SQL
+
+
+:: StoryData
+{
+  "ifid": "5E181DDE-BE05-433C-A344-D7A60C176D16",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Начало",
+  "zoom": 1
+}
+
+
+:: 1. Oracle {"position":"425,325","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Oracle Database — это мощная, масштабируемая реляционная система управления базами данных (СУБД), известная своей надежностью, безопасностью и производительностью. Она используется для хранения и управления большими объемами структурированных данных в различных отраслях.</p>
+
+
+(text-color:black)[[Мне все понятно|Финал]] 
+
+
+(text-color:black)[[Назад|Базы данных]] 
+</div>
+
+
+:: 2. MySQL {"position":"400,500","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">MySQL — это популярная, открытая и бесплатная (в своей базовой версии) реляционная система управления базами данных (СУБД), известная своей простотой использования и широкой поддержкой. Часто используется для веб-приложений и средних по размеру баз данных.</p>
+
+
+(text-color:black)[[Мне все понятно|Финал]] 
+
+
+(text-color:black)[[Назад|Базы данных]] 
+</div>
+
+
+:: 3. Microsoft SQL Server {"position":"375,675","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Microsoft SQL Server — это мощная реляционная система управления базами данных (СУБД) от Microsoft, тесно интегрированная с другими продуктами Microsoft. Она известна своей производительностью, масштабируемостью и надёжностью, часто используется в корпоративных средах и приложениях Windows.</p>
+
+
+(text-color:black)[[Мне все понятно|Финал]] 
+
+
+(text-color:black)[[Назад|Базы данных]] 
+</div>
+
+
+:: 4. PostgreSQL {"position":"450,850","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">PostgreSQL — это мощная, открытая, реляционная система управления базами данных (СУБД), известная своей гибкостью, расширяемостью и высокой производительностью. Она поддерживает сложные запросы и различные типы данных. Хорошо подходит для больших и сложных баз данных.</p>
+
+
+(text-color:black)[[Мне все понятно|Финал]] 
+
+
+(text-color:black)[[Назад|Базы данных]] 
+</div>
+
+
+:: 5. Apache Cassandra {"position":"550,950","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Apache Cassandra — это распределённая, масштабируемая, нереляционная база данных, ориентированная на высокую доступность и производительность. Она подходит для обработки больших объёмов данных и обработки множества запросов одновременно.</p>
+
+
+(text-color:black)[[Мне все понятно|Финал]] 
+
+
+(text-color:black)[[Назад|Базы данных]] 
+</div>
+
+
+:: 6. Redis {"position":"700,950","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Redis — это кэширующая и хранящая данные база данных с открытым исходным кодом, которая работает как в памяти, так и на диске. Она используется в основном для кэширования, но также может применяться в качестве хранилища данных, благодаря поддержке разнообразных типов данных.</p>
+
+
+(text-color:black)[[Мне все понятно|Финал]] 
+
+
+(text-color:black)[[Назад|Базы данных]] 
+</div>
+
+
+:: Libre offic Base {"position":"1150,375","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">LibreOffice Base - это бесплатный инструмент для разработки баз данных и администрирования с открытым исходным кодом для систем управления реляционными базами данных, входящий в состав офисного пакета LibreOffice.</p>
+
+
+(text-color:black)[[Понятно|Финал]]
+</div>
+
+
+:: БД {"position":"975,200","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Отлично! Теперь я расскажу как создать свою БД и запросы к ней</p>
+
+
+(text-color:black)[[Да,я хочу послушать|Своя БД]] 
+
+
+(text-color:black)[[Не, мне лень|Конец]] 
+</div>
+
+
+:: Базы данных {"position":"775,550","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">База данных (БД) — это набор информации, которая хранится упорядоченно в электронном виде.
+Популярные системы управления базами данных
+Системы управления базами данных (СУБД) — это инструменты, с помощью которых пользователь обращается к данным, изменяет их или создаёт. СУБД функционируют как менеджеры по работе с базами данных, которые «говорят» на их языке программирования. В российских и зарубежных компаниях используют шесть популярных СУБД:
+[[1. Oracle]]
+[[2. MySQL]]
+[[3. Microsoft SQL Server]]
+[[4. PostgreSQL]]
+[[5. Apache Cassandra]]
+[[6. Redis]]</p>
+</div>
+
+
+:: Далее {"position":"1400,275","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Вот скрины моих запросов юный молдован</p> 
+<img
+src=https://yougile.com/user-data/79a1c011-3b0b-4edf-8260-5845b33b1242/2024-12-24_13-10-09.png-256-preview@456x91.png?previews[]=-256-preview@288x224 height="200">
+<p style="color: black;">В этом запросе мы хотм чтобы вивелись люди которые взяли книгу на 30 дней не больше не меньше</p> 
+(text-color:black)[[Я все понял|Конец]] 
+(text-color:black)[[Давай дальше|сравнение]] 
+(text-color:black)[[Как создавать формы|формы]] 
+</div>
+
+
+:: Конец {"position":"1100,75","size":"100,100"}
+Теперь вроде конец:)
+
+
+:: Начало {"position":"750,100","size":"100,100"}
+(set:$fio to(prompt:"Как вас зовут",""))
+
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+
+<div class="transparent-box">
+<p style="color: black;"> Привет $fio нажми далее если хочешь узнать что такое SQL</p>
+
+
+(text-color:black)[[Далее|Что такое SQL]]
+</div>
+
+
+:: Своя БД {"position":"1250,250","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Для начала откроем LibreOffice Base</p> 
+<img
+src=https://yougile.com/user-data/7db3b881-150b-4cfe-8cde-aec4407d45fb/LibreOffice_Base_icon_3.3.1_48_px.svg.png-256-preview@214x257.png?previews[]=-256-preview@288x224 height="200">
+(text-color:black)[[Хочу увидеть скрины запросов|Далее]] 
+</div>
+
+
+:: Финал {"position":"750,250","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Ты точно все понял , первый раз я расказал тебе все  бесплатно , но следующий раз будет стоить денег.
+Если что то не понял , я повторю все еще раз.</p>
+
+
+(text-color:black)[[Я хочу послушать еще раз|Что такое SQL]] 
+
+
+(text-color:black)[[Я всё понял и запомнил|БД]] 
+</div>
+
+
+:: Что такое SQL {"position":"950,425","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;"> Для работы привычных нам приложений нужны данные, которые необходимо где-то хранить. Самый удобный способ хранения — это базы данных (БД). Чтобы работать с БД, искать и изменять в них нужные данные, разработчики используют язык SQL.
+
+SQL (Structured Query Language, или язык структурированных запросов) — это язык программирования, который позволяет делать запросы к данным, фильтровать и сортировать информацию с помощью этих запросов и работать со структурой самой базы.
+$fio что еще ты хочешь узнать?</p>
+
+
+(text-color:black)[[Что такое БД?|Базы данных]]
+
+(text-color:black)[[Что такое Libre offic Base?|Libre offic Base]]
+</div>
+
+
+:: сравнение {"position":"1450,150","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;">Типы баз данных:
+SQLDBrowser: Работает только с SQLite.
+LibreOffice Base: Поддерживает SQLite, MySQL, PostgreSQL и другие.
+Интерфейс пользователя:
+SQLDBrowser: Простой и минималистичный, ориентирован на выполнение SQL-запросов.
+LibreOffice Base: Более сложный, с возможностью создания форм и отчетов.
+Создание и управление таблицами:
+SQLDBrowser: Основные функции через SQL-запросы, ограниченные возможности.
+LibreOffice Base: Удобные инструменты для создания и управления таблицами визуально.
+Поддержка SQL:
+SQLDBrowser: Полная поддержка SQL-запросов.
+LibreOffice Base: Поддержка SQL и графический интерфейс для создания запросов.
+Отчеты и формы:
+SQLDBrowser: Нет инструментов для создания отчетов.
+LibreOffice Base: Мощные инструменты для отчетности и форм.
+Пользовательская поддержка:
+SQLDBrowser: Ограниченная документация и поддержка.
+LibreOffice Base: Обширная документация и активное сообщество.
+Портативность:
+SQLDBrowser: Легко переносим, работает с файлами SQLite.
+LibreOffice Base: Требует настройки для работы с различными источниками данных.</p> 
+(text-color:black)[[Я все понял|Конец]] 
+</div>
+
+
+
+:: формы {"position":"1325,0","size":"100,100"}
+<img
+src=https://www.yougile.com/user-data/eff34bdf-ac01-481e-b868-02a0021f982f/47fe92dc856811efb7a366e14819989e_1-no-bg-preview%20(carve.photos)%20(1).png?previews[]=-256-preview@288x224 width="500" height="400">
+<div class="transparent-box">
+<p style="color: black;"> Чтобы создать форму в LibreOffice Base, выполните следующие шаги:
+Откройте LibreOffice Base: Запустите программу и откройте вашу базу данных.
+Перейдите в режим проектирования: В левом боковом меню выберите "Формы".
+Создайте новую форму:
+Щелкните правой кнопкой мыши на "Формы" и выберите "Создать форму в режиме конструктора".
+Выберите источник данных (таблицу или запрос), для которого вы хотите создать форму, и нажмите "Далее".
+Выберите поля: В следующем окне выберите поля, которые хотите добавить в форму, и нажмите "Далее".
+Настройка формы: Выберите стиль и макет формы, затем нажмите "Готово".
+Редактирование формы: Вы можете дополнительно редактировать форму в режиме конструктора, добавляя элементы управления (кнопки, текстовые поля и т.д.) и настраивая их свойства.
+Сохраните форму: После завершения редактирования сохраните форму, нажав на значок дискеты или выбрав "Файл" > "Сохранить".
+Теперь ваша форма готова к использованию! Вы можете открыть ее для ввода данных или просмотра информации.</p> 
+
+
+(text-color:black)[[Я все понял|Конец]] 
+</div>
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+  background-image:url("https://i.pinimg.com/originals/aa/75/9a/aa759ad286c941c8ce41fb815997de4a.jpg");
+  
+.transparent-box {
+border: 5px solid rgba(0, 0, 0, 0.5);
+border-radius: 10px;
+padding: 20px;
+background-color: rgba(255, 255, 255, 0.8);
+}
